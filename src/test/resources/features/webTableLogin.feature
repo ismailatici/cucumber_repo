@@ -1,5 +1,5 @@
 Feature: User should be able to loginusing correct credentials
-
+@wip2
   Background: user is on the login page
     Given user is on the login page of web table app
 
